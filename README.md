@@ -1,4 +1,4 @@
-# Web Development Intrenship at CODECRAFT INFOTECH
+# Web Development Internship at CODECRAFT INFOTECH
 # Task-03 
 Tic-Tac-Toe Web Application
 ## Try Tic-Tac-Toe Game
